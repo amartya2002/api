@@ -1,0 +1,104 @@
+[
+  {
+    "id": 1,
+    "chartdata": [
+      { "date": "2020", "x": 8 },
+      { "date": "2021", "x": 1 },
+      { "date": "2022", "x": 5 },
+      { "date": "2023", "x": 5 },
+      { "date": "2024", "x": 8 },
+      { "date": "2025", "x": 8 }
+    ],
+    "proRequired": false,
+    "productName": "Mlops",
+    "volume": "49.5k",
+    "growth": "+99X",
+    "subtitle": "Machine learning operations. A set of best practices in the machine learning development cycle.",
+    "status": "EXPLODING"
+  },
+  {
+    "id": 2,
+    "chartdata": [
+      { "date": "2020", "x": 4 },
+      { "date": "2021", "x": 1 },
+      { "date": "2022", "x": 5 },
+      { "date": "2023", "x": 6 },
+      { "date": "2024", "x": 3 },
+      { "date": "2025", "x": 8 }
+    ],
+    "proRequired": false,
+    "productName": "Candy",
+    "volume": "49.5k",
+    "growth": "+99X",
+    "subtitle": "Machine learning operations. A set of best practices in the machine learning development cycle.",
+    "status": "EXPLODING"
+  },
+  {
+    "id": 3,
+    "chartdata": [
+      { "date": "2020", "x": 4 },
+      { "date": "2021", "x": 1 },
+      { "date": "2022", "x": 5 },
+      { "date": "2023", "x": 6 },
+      { "date": "2024", "x": 3 },
+      { "date": "2025", "x": 8 }
+    ],
+    "proRequired": true,
+    "productName": "Candy",
+    "volume": "49.5k",
+    "growth": "+99X",
+    "subtitle": "Machine learning operations. A set of best practices in the machine learning development cycle.",
+    "status": "EXPLODING"
+  },
+  {
+    "id": 4,
+    "chartdata": [
+      { "date": "2020", "x": 4 },
+      { "date": "2021", "x": 1 },
+      { "date": "2022", "x": 5 },
+      { "date": "2023", "x": 6 },
+      { "date": "2024", "x": 3 },
+      { "date": "2025", "x": 8 }
+    ],
+    "proRequired": true,
+    "productName": "Candy",
+    "volume": "49.5k",
+    "growth": "+99X",
+    "subtitle": "Machine learning operations. A set of best practices in the machine learning development cycle.",
+    "status": "EXPLODING"
+  },
+  {
+    "id": 5,
+    "chartdata": [
+      { "date": "2020", "x": 4 },
+      { "date": "2021", "x": 1 },
+      { "date": "2022", "x": 5 },
+      { "date": "2023", "x": 6 },
+      { "date": "2024", "x": 3 },
+      { "date": "2025", "x": 8 }
+    ],
+    "proRequired": false,
+    "productName": "Candy",
+    "volume": "49.5k",
+    "growth": "+99X",
+    "subtitle": "Machine learning operations. A set of best practices in the machine learning development cycle.",
+    "status": "EXPLODING"
+  },
+  {
+    "id": 6,
+    "chartdata": [
+      { "date": "2020", "x": 4 },
+      { "date": "2021", "x": 1 },
+      { "date": "2022", "x": 5 },
+      { "date": "2023", "x": 6 },
+      { "date": "2024", "x": 3 },
+      { "date": "2025", "x": 8 }
+    ],
+    "proRequired": false,
+    "productName": "Candy",
+    "volume": "49.5k",
+    "growth": "+99X",
+    "subtitle": "Machine learning operations. A set of best practices in the machine learning development cycle.",
+    "status": "EXPLODING"
+  }
+]
